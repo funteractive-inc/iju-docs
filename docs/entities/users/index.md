@@ -14,7 +14,7 @@ erDiagram
   organizations_users {
     ID user_id
     ID organization_id
-    Boolean isEditable
+    Boolean is_editable
   }
 ```
 
