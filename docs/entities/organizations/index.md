@@ -1,8 +1,8 @@
 ```mermaid
 erDiagram
   organizations ||--|{ organizations_users : ""
-  organizations_users }|--|{ users : ""
-  organizations ||--|{ jobs : ""
+  organizations_users }o--|| users : ""
+  organizations ||--o{ jobs : ""
 
   organizations {
     ID id
