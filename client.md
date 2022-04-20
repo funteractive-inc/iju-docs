@@ -1,12 +1,12 @@
 # どんな企業か
-ファンタラクティブにIJUの制作を発注している企業。
+ファンタラクティブにIJUの制作を発注している企業。<br>
 既に人材紹介で一本目の柱が立っており、さらに会社を伸ばすためにSaaS事業であるIJUの立ち上げを計画。
 
 ## 参考
-https://uzuz.jp/
-https://www.hallheart.co.jp/
-https://www.hear.co.jp/
-https://www.posiwill.co.jp/
+https://uzuz.jp/<br>
+https://www.hallheart.co.jp/<br>
+https://www.hear.co.jp/<br>
+https://www.posiwill.co.jp/<br>
 https://b-engineer.co.jp/
 
 # 発注企業のプロファイル
