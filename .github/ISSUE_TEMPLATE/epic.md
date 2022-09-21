@@ -20,11 +20,9 @@ labels: epic
 
 - [ ] xxx
 
-
 ### フロントエンド
 
 - [ ] xxx
-
 
 ### Test
 
